@@ -1,0 +1,25 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Elegant scroll",
+    "fields": {
+        "AEI": {
+            "caption": "Element ID",
+            "doc": "Put here the id of the scrollable element or let empty if you want it to apply to all elements on this page.",
+            "editor": "StaticText",
+            "name": "element_id",
+            "optional": true,
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-plus",
+    "property_applications": {
+        "Padding": false,
+        "resizable": true
+    }
+}

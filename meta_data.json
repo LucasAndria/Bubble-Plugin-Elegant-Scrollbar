@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "technical",
+        "2": "internationalization"
+    },
+    "description": "Enhance your app's appearance by customizing the scrollbar for a sleek and beautiful look. \n\nNote that this customization uses WebKit, which are compatible with most modern browsers. For detailed browser compatibility, please refer to the following link: \n\nhttps://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar#browser_compatibility",
+    "image": "//meta-q.cdn.bubble.io/f1706512852309x518282787916928260/Awesome%20custom%20scrollbar%20icon.png",
+    "license": "open_source",
+    "name": "Elegant Scroll",
+    "plugin_instructions": "Add scrollbar customization in the plugin tab. \n\nYou can choose to apply it to all pages or only to specific pages using the Elegant Scroll element. \n\nThe Scroll horizontal element allows you to add horizontal scrolling to a group when there is an overflow."
+}
